@@ -1,11 +1,9 @@
-🛀 Cleanliness
-==============
+# 🛀 Cleanliness
 
 Cleanliness is a package for doing (very) basic cleaning of text. It can be used for preprocessing input to various
 natural language processing tasks.
 
-Install
--------
+## Install
 
 Download the source from GitHub, then install using pip (from the repo directory):
 
@@ -13,8 +11,7 @@ Download the source from GitHub, then install using pip (from the repo directory
 pip3 install -e .
 ```
 
-Usage
------
+## Usage
 
 ```python
 from cleanliness import normalize_whitespace
