@@ -5,10 +5,16 @@ natural language processing tasks.
 
 ## Install
 
-Download the source from GitHub, then install using pip (from the repo directory):
+Install using from PyPI as follows:
 
 ```python
-pip3 install -e .
+pip install cleanliness
+```
+
+Alternatively, you can download the source from GitHub, then install using pip (from the repo directory):
+
+```python
+pip install -e .
 ```
 
 ## Usage
